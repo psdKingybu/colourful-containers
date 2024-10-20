@@ -1,0 +1,4 @@
+{
+    condition: "otherguicategory.inventorytype.paper",
+    fallback: "assets/minecraft/textures/gui/container/inventory/slot.png"
+}

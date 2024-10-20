@@ -1,0 +1,4 @@
+{
+    condition: "textcategory.showtext",
+    fallback: "assets/minecraft/lang/showtext.json"
+}
