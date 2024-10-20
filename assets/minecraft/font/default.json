@@ -37,6 +37,40 @@
         }
     },
 
+	{ 
+        "type": "bitmap",
+        "file": "minecraft:gui/container/chests/chest.png",
+        "height": 91, "ascent": 23,
+        "chars": ["\uEC01"]
+    },
+    
+    { 
+        "type": "bitmap",
+        "file": "minecraft:gui/container/chests/barrel.png",
+        "height": 83, "ascent": 14,
+        "chars": ["\uEC03"]
+    },
+
+    { 
+        "type": "bitmap",
+        "file": "minecraft:gui/container/chests/ender_chest.png",
+        "height": 91, "ascent": 23,
+        "chars": ["\uEC04"]
+    },
+
+    { 
+        "type": "bitmap",
+        "file": "minecraft:gui/container/chests/large_chest.png",
+        "height": 158, "ascent": 34,
+        "chars": ["\uEC05"]
+    },
+
+    { 
+        "type": "bitmap",
+        "file": "minecraft:gui/container/chests/dropper_block.png",
+        "height": 112, "ascent": 45,
+        "chars": ["\uEc20"]
+    },
 
     { 
         "type": "bitmap",

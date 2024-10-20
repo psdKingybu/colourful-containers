@@ -1,6 +1,6 @@
 {
   'id': 'colourfulcontainers',
-  'version': 12,
+  'version': 13,
   'capabilities': [
     'FileFilter', 'DirFilter'
   ],
@@ -43,7 +43,7 @@
 
     'otherguicategory': {
     survivalinventory: ["empty1", "empty2"],
-        inventorytype: ["paper", "table", "off"],
+        inventorytype: ["paper", "slot", "off"],
     recipebook: ["empty1", "empty2"],
         recipebooktype: ["green", "brown", "off"]
     },
