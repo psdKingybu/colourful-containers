@@ -1,6 +1,24 @@
 {
-   "pack": {
-      "pack_format": 42,
-      "description": "\u00a74\u00a7l!\u00a7fOptiGUI required\u00a74\u00a7l!\u00a7r 1.21\n\u00a7f\u00a7lby \u00a79\u00a7lKingybu"
-   }
+  "pack": {
+    "pack_format": 42,
+    "supported_formats": {
+      "min_inclusive": 30,
+      "max_inclusive": 99
+    },
+    "description": "\u00a74\u00a7l!\u00a7fOptiGUI required\u00a74\u00a7l!\u00a7r 1.21\n\u00a7f\u00a7lby \u00a79\u00a7lKingybu"
+  },
+	"language":{
+		"en_us-mod":{
+		"name":"English §9[Modded] §c[Hide GUI Text]§f",
+		"region":"US"
+		},
+		"en_us-showtext":{
+		"name":"English §9[Modded] §a[Show GUI Text]§f",
+		"region":"US"
+		},
+		"en_us-hidetext":{
+		"name":"English §6[Vanilla] §c[Hide GUI Text]§f",
+		"region":"US"
+		}
+	}
 }
