@@ -45,7 +45,25 @@
     "entity.minecraft.chest_boat": "",
 	"entity.minecraft.chest_minecart": "",
     "gui.recipebook.search_hint": "§fSearch...",
+    
+    //rideable mobs
+    "entity.minecraft.horse": "",
+    "entity.minecraft.llama": "",
+    "entity.minecraft.donkey": "",
 
+    //Chest Boats
+    "entity.minecraft.acacia_chest_boat": "",
+    "entity.minecraft.birch_chest_boat": "",
+    "entity.minecraft.cherry_chest_boat": "",
+    "entity.minecraft.chest_boat": "",
+    "entity.minecraft.dark_oak_chest_boat": "",
+    "entity.minecraft.jungle_chest_boat": "",
+    "entity.minecraft.mangrove_chest_boat": "",
+    "entity.minecraft.oak_chest_boat": "",
+    "entity.minecraft.pale_oak_chest_boat": "",
+    "entity.minecraft.spruce_chest_boat": "",
+    "entity.minecraft.bamboo_chest_raft": "",
+    
 
     //Hides the trade buttons (we love shrimpsnail we all say in unison!)
     "merchant.trades": "§f\uE995\uE995\uE995\uEe99",

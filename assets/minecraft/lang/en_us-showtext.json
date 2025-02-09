@@ -42,6 +42,24 @@
     "entity.minecraft.chest_boat": "§fChest Boat",
     "entity.minecraft.chest_minecart": "§fChest Minecart",
 
+    //rideable mobs
+    "entity.minecraft.horse": "",
+    "entity.minecraft.llama": "",
+    "entity.minecraft.donkey": "",
+
+    //chest boats
+    "entity.minecraft.acacia_chest_boat": "§fAcacia Boat with Chest",
+    "entity.minecraft.birch_chest_boat": "§fBirch Boat with Chest",
+    "entity.minecraft.cherry_chest_boat": "§fCherry Boat with Chest",
+    "entity.minecraft.chest_boat": "§fBoat with Chest",
+    "entity.minecraft.dark_oak_chest_boat": "§fDark Oak Boat with Chest",
+    "entity.minecraft.jungle_chest_boat": "§fJungle Boat with Chest",
+    "entity.minecraft.mangrove_chest_boat": "§fMangrove Boat with Chest",
+    "entity.minecraft.oak_chest_boat": "§fOak Boat with Chest",
+    "entity.minecraft.pale_oak_chest_boat": "§fPale Oak Boat with Chest",
+    "entity.minecraft.spruce_chest_boat": "§fSpruce Boat with Chest",
+    "entity.minecraft.bamboo_chest_raft": "§fBamboo Raft with Chest",
+    
     //Hides the trade buttons (we love shrimpsnail we all say in unison!)
     "merchant.trades": "§f\uE995\uE995\uE995\uEe99",
 

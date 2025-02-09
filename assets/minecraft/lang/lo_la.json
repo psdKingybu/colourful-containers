@@ -1,4 +1,5 @@
 {
+    //containers
     "block.minecraft.beacon.primary": "",
     "block.minecraft.beacon.secondary": "",
     "gui.recipebook.toggleRecipes.all": "",
@@ -11,7 +12,7 @@
     "container.hopper": "",
     "container.crafting": "",
     "container.dispenser": "",
-	"container.dropper":	"§f\uE998\uEc20",
+	"container.dropper": "",
     "container.furnace": "",
     "container.enchant": "",
     "container.smoker": "",
@@ -20,12 +21,12 @@
     "container.repair": "",
     "container.creative": "",
     "container.brewing": "",
-	"container.chest":					"§f\uE999\uE996\uEc01",
-	"container.chestDouble":			"§f\uE999\uE999\uE996\uEc05",
-	"container.enderchest":				"§f\uE999\uE996\uEc04",
+	"container.chest": "",
+	"container.chestDouble": "",
+	"container.enderchest":	"",
     "container.beacon": "",
     "container.shulkerBox": "",
-	"container.barrel":                 "§f\uE999\uEc03",
+	"container.barrel": "",
     "container.loom": "",
     "container.grindstone_title": "",
     "container.cartography_table": "",
@@ -40,9 +41,46 @@
     "item.minecraft.smithing_template.netherite_upgrade.additions_slot_description": "",
     "entity.minecraft.hopper_minecart": "",
     "entity.minecraft.chest_boat": "",
-	"entity.minecraft.chest_minecart": 				"§f\uE999\uE999\uE999\uE995\uE998\uE998\uEc16",
+	"entity.minecraft.chest_minecart": "",
+
+    //recipe book
     "gui.recipebook.search_hint": "§fSearch...",
 
+    //language options
+    "options.languageAccuracyWarning": "§cSelect the §6[Vanilla] §clanguage if you dont use OptiGUI or Optifine",
+    
+    //settings
+    "options.off": "§cOFF",
+    "options.on": "§aON",
+    "options.difficulty.peaceful": "§bPeaceful",
+    "options.difficulty.easy": "§aEasy",
+    "options.difficulty.normal": "§eNormal",
+    "options.difficulty.hard": "§cHard",
+    "options.clouds.fancy": "§aFancy",
+    "options.clouds.fast": "§eFast",
+    "options.graphics.fabulous": "§dFabulous!",
+    "options.graphics.fancy": "§aFancy",
+    "options.graphics.fast": "§eFast",
+    "options.narrator.off": "§cOFF",
+    
+    //rideable mobs
+    "entity.minecraft.horse": "",
+    "entity.minecraft.llama": "",
+    "entity.minecraft.donkey": "",
+
+    //Chest Boats
+    "entity.minecraft.acacia_chest_boat": "",
+    "entity.minecraft.birch_chest_boat": "",
+    "entity.minecraft.cherry_chest_boat": "",
+    "entity.minecraft.chest_boat": "",
+    "entity.minecraft.dark_oak_chest_boat": "",
+    "entity.minecraft.jungle_chest_boat": "",
+    "entity.minecraft.mangrove_chest_boat": "",
+    "entity.minecraft.oak_chest_boat": "",
+    "entity.minecraft.pale_oak_chest_boat": "",
+    "entity.minecraft.spruce_chest_boat": "",
+    "entity.minecraft.bamboo_chest_raft": "",
+    
 
     //Hides the trade buttons (we love shrimpsnail we all say in unison!)
     "merchant.trades": "§f\uE995\uE995\uE995\uEe99",
